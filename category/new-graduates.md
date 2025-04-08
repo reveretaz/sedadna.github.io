@@ -32,6 +32,27 @@ OR
 
 <div class="avatar">
 <div class ="member">
+<div class="square"><a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Aloïs Revéret</p>
+<p><a href="">Ancient DNA in Arctic sediments: reconstructing ecosystem changes throughout the Quaternary deglaciation</a></p>
+<p>DD/MM/2025</p>
+<p>UiT</p>
+<p>Tromsø, Norway</p>
+</div>
+</div>
+<div class="section Alois">
+<p><a href="https://www.researchgate.net/profile/Alois-Reveret">Aloïs Revéret</a> sincerely hopes that he will be able to submit his thesis and defend in time, although his track record does not quite plead for it.
+His <a href="https://doi.org/10.1111/fwb.14158">first paper</a> reviewed the methodologies detecting eDNA of freshwater aquatic plants, and showed that it can be leveraged to renconstruct abiotic variables.
+In his <a href="">second paper</a>, he investigates ten millennia of postglacial ecological succession at the southwestern edge of the Scandinavian peninsula.
+His <a href="">third paper</a> has mammoth in it.
+Aloïs also led the <a href="https://doi.org/10.1007/978-3-031-43799-1_8">chapter on aquatic macrophytes</a> in the <a href="https://link.springer.com/10.1007/978-3-031-43799-1">palaeolimology volume dedicated to sedimentary ancient DNA</a>, and contributed to an <a href="https://www.sciencedirect.com/science/article/pii/B9780323999311001719">encyclopedia article</a>.
+</p>
+<p><b>Aloïs is currently seeking a Nobel Prize.</b>
+His research interests are steep skiing and tasty cheese.</p>
+</div>
+
+<div class="avatar">
+<div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Tulug-Ataman" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281099073239-1669197987650_Q128/Tulug-Ataman.jpg" alt="Avatar" /></a></div>
 <p>Tuluğ G. Ataman</p>
 <p><a href="">Thesis title</a></p>
@@ -41,7 +62,9 @@ OR
 </div>
 </div>
 <div class="section Tulug">
-<p> <a href="https://www.researchgate.net/profile/Tulug-Ataman">Tulug Gülce Ataman</a> successfully defended her Ph.D., spearheading our knowledge of DNA taphonomy with her test site of Stabbevatnet, a small lake in northern Norway. Her <a href="">first paper</a> investigates the influence of glacial activity on vegetation and soil properties on an island in northern Norway.</p>
+<p> <a href="https://www.researchgate.net/profile/Tulug-Ataman">Tulug Gülce Ataman</a> successfully defended her Ph.D., spearheading our knowledge of DNA taphonomy with her test site of Stabbevatnet, a small lake in northern Norway.
+  Her <a href="">first paper</a> explores the spatial variability of sedimentary DNA, showing that sampling the depocentre optimises the recovered richness, but that the detection of rare terrestrial taxa is linked to the drainage system.
+  Her <a href="">second paper</a> will . Her <a href="">third manuscript</a> studies the temporal patterns of eDNA in a stream.</p>
 <p><b>Tulug is currently seeking for a postdoctoral position.</b></p>
 </div>
 
@@ -56,7 +79,8 @@ OR
 </div>
 </div>
 <div class="section Scarlett">
-<p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter">Scarlett Zetter</a> successfully defended her Ph.D. this autumn. Her <a href="https://doi.org/10.1177/09596836241307304">first paper</a> demonstrates that the vertical transhumance in the Eastern Alps has increased floristic diversity by opening new habitats within the subalpine vegetation belt.</p>
+<p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter">Scarlett Zetter</a> successfully defended her Ph.D. this autumn.
+  Her <a href="https://doi.org/10.1177/09596836241307304">first paper</a> demonstrates that the vertical transhumance in the Eastern Alps has increased floristic diversity by opening new habitats within the subalpine vegetation belt.</p>
 <p>Scarlett is currently employed at University of Southampton, where she works as a postdoctoral researcher on the <a href="https://www.southampton.ac.uk/smmi/news/2025/02/the-ancient-ports-of-europe-a-novel-genetic-window-on-ancient-lives-portgen.page">PortGEN project</a>.</p>
 </div>
 
@@ -71,7 +95,11 @@ OR
 </div>
 </div>
 <div class="section Luke">
-<p> <a href="https://www.researchgate.net/profile/Lucas-Elliott-3">Luke Elliott</a> successfully defended his Ph.D. this winter. His <a href="https://doi.org/10.3390/quat6010007">first paper</a> investigates the influence of glacial activity on vegetation and soil properties on an island in northern Norway. His <a href="https://doi.org/10.1111/1755-0998.13926">second paper</a> advances the capacity of <i>sed</i>aDNA to study intraspecific genetic diversity for palaeo-phylogeography. His third work, released as a <a href="https://doi.org/10.22541/au.172529953.39892767/v1">preprint</a>, is a bionformatical pipeline that annotates metagenomic datasets based on genome skims. He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
+<p> <a href="https://www.researchgate.net/profile/Lucas-Elliott-3">Luke Elliott</a> successfully defended his Ph.D. this winter.
+  His <a href="https://doi.org/10.3390/quat6010007">first paper</a> investigates the influence of glacial activity on vegetation and soil properties on an island in northern Norway.
+  His <a href="https://doi.org/10.1111/1755-0998.13926">second paper</a> advances the capacity of <i>sed</i>aDNA to study intraspecific genetic diversity for palaeo-phylogeography.
+  His third work, released as a <a href="https://doi.org/10.22541/au.172529953.39892767/v1">preprint</a>, is a bionformatical pipeline that annotates metagenomic datasets based on genome skims.
+  He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
 <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
 </div>
 </div>
