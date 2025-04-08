@@ -7,6 +7,29 @@ Title: Newly graduated PhDs
 <h3 class="section-title underline">Our new doctors in sedimentary DNA</h3>
 </div>
 
+<!-- TEMPLATE
+<div class="avatar">
+<div class ="member">
+<div class="square"><a href="PROFILE.URL" target="_blank"><img src="{{ "/category/members/NAME.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>FULL_NAME</p>
+<p><a href="THESIS.URL">THESIS TITLE</a></p>
+<p>DD/MM/YYYY</p>
+<p>INSTITUTION NAME</p>
+<p>CITY, COUNTRY</p>
+</div>
+</div>
+<div class="section NAME">
+<p> <a href="PROFILE.URL">FULL NAME</a> WHAT YOU HAVE DONE.
+<a href="PAPER1.URL">first paper</a> PAPER 1 TOPIC.
+<a href="PAPER2.URL">second paper</a> PAPER 2 TOPIC.
+<a href="PAPER3.URL">third paper</a> PAPER 3 TOPIC.
+</p>
+<p>CURRENT POSITION
+OR
+<b>NAME is currently seeking a postdoctoral position.</b></p>
+</div>
+-->
+
 <div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Tulug-Ataman" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281099073239-1669197987650_Q128/Tulug-Ataman.jpg" alt="Avatar" /></a></div>
@@ -33,7 +56,7 @@ Title: Newly graduated PhDs
 </div>
 </div>
 <div class="section Scarlett">
-<p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter">Scarlett Zetter</a> successfully defended her Ph.D. this autumn. Her <a href="https://doi.org/10.1177/09596836241307304">first paper</a> demonstrates that the vertical transhumance in the Eastern Alps has increased floristic diversity by opening new habitats.</p>
+<p> <a href="https://www.researchgate.net/profile/Scarlett-Zetter">Scarlett Zetter</a> successfully defended her Ph.D. this autumn. Her <a href="https://doi.org/10.1177/09596836241307304">first paper</a> demonstrates that the vertical transhumance in the Eastern Alps has increased floristic diversity by opening new habitats within the subalpine vegetation belt.</p>
 <p>Scarlett is currently employed at University of Southampton, where she works as a postdoctoral researcher on the <a href="https://www.southampton.ac.uk/smmi/news/2025/02/the-ancient-ports-of-europe-a-novel-genetic-window-on-ancient-lives-portgen.page">PortGEN project</a>.</p>
 </div>
 
