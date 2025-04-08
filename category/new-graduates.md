@@ -12,7 +12,7 @@ Title: Newly graduated PhDs
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar" /></a></div>
 <p>Lucas D. Elliott</p>
-<p><a href="https://munin.uit.no/handle/10037/35339" target="Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages"></a></p>
+<p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
 <p>15/11/2024</p>
 <p>UiT</p>
 <p>Tromsø, Norway</p>
