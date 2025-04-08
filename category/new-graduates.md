@@ -22,6 +22,7 @@ Title: Newly graduated PhDs
 <p>Luke is currently working with the <a>ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
 </div>
 
+<!--
 <div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Lucas-Elliott-3" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281183075306-1692700144000_Q128/Lucas-Elliott-3.jpg" alt="Avatar" /></a></div>
@@ -32,6 +33,7 @@ Title: Newly graduated PhDs
 <p>Tromsø, Norway</p>
 </div>
 </div>
+-->
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Mailys-Picard" target="_blank"><img src="{{ "/category/members/Mailys_Picard.jpg" | relative_url }}" alt="Avatar" /></a></div>
