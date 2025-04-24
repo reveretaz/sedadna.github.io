@@ -30,13 +30,14 @@ OR
 </div>
 -->
 
+<!--
 <div class="avatar">
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Alois-Reveret" target="_blank"><img src="{{ "/category/members/Alois_Reveret.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Aloïs Revéret</p>
 <p><a href="">Ancient DNA in Arctic sediments: reconstructing ecosystem changes throughout the Quaternary deglaciation</a></p>
 <p>DD/MM/2025</p>
-<p>UiT</p>
+<p>Tromsø Museum (UiT)</p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -57,7 +58,7 @@ His research interests are steep skiing and tasty cheese.</p>
 <p>Tuluğ G. Ataman</p>
 <p><a href="">Thesis title</a></p>
 <p>../../2025</p>
-<p>UiT</p>
+<p>Tromsø Museum (UiT)</p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -74,7 +75,7 @@ His research interests are steep skiing and tasty cheese.</p>
 <p>Scarlett Zetter</p>
 <p><a href="">Thesis title</a></p>
 <p>../../2025</p>
-<p>UiT</p>
+<p>Tromsø Museum (UiT)</p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -83,6 +84,7 @@ His research interests are steep skiing and tasty cheese.</p>
   Her <a href="https://doi.org/10.1177/09596836241307304">first paper</a> demonstrates that the vertical transhumance in the Eastern Alps has increased floristic diversity by opening new habitats within the subalpine vegetation belt.</p>
 <p>Scarlett is currently employed at University of Southampton, where she works as a postdoctoral researcher on the <a href="https://www.southampton.ac.uk/smmi/news/2025/02/the-ancient-ports-of-europe-a-novel-genetic-window-on-ancient-lives-portgen.page">PortGEN project</a>.</p>
 </div>
+-->
 
 <div class="avatar">
 <div class ="member">
@@ -90,7 +92,7 @@ His research interests are steep skiing and tasty cheese.</p>
 <p>Lucas D. Elliott</p>
 <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
 <p>15/11/2024</p>
-<p>UiT</p>
+<p>Tromsø Museum (UiT)</p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -102,4 +104,24 @@ His research interests are steep skiing and tasty cheese.</p>
   He is preparing a manuscript to compare the taxonomic yield of metabarcoding, shotgun metagenomics, and target capture.</p>
 <p>Luke is currently working as a postdoc with the <a href="https://uit.no/research/arcecogen">ArcEcoGen research group</a> at Tromsø Museum (UiT).</p>
 </div>
+</div>
+
+<div class="avatar">
+<div class ="member">
+<div class="square"><a href="PROFILE.URL" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281235912675-1712857075820_Q128/Izabella-Baisheva.jpg" alt="Avatar" /></a></div>
+<p>Izabella A. Baisheva</p>
+<p><a href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
+<p>10/07/2024</p>
+<p>Helmholtz Centre for Polar and Marine Research (AWI/Potsdam University)</p>
+<p>Potsdam, Germany</p>
+</div>
+</div>
+<div class="section Izabella">
+<p> <a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia.
+Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the Holocene biological history of Lake Satagay, a Siberian thermokarst lake near the Vilyuy (major tributary of River Lena).
+Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire events.
+In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated another thermokarst lake in Yakutia where the sedimentary record reaches 21 ka BP, providing an unprecedented insight on freshwater and vegetation dynamics in the region since the Last Glacial Maximum.
+She is developing a manuscript assessing the environmental and biological status of 66 lakes across southern Yakutia.
+</p>
+<p>Izabella is currently a guest researcher at the Helmholtz Centre for Polar and Marine Research (AWI) in Potsdam.</p>
 </div>
