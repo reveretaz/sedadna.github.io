@@ -37,7 +37,7 @@ OR
 <p>Aloïs Revéret</p>
 <p><a href="">Ancient DNA in Arctic sediments: reconstructing ecosystem changes throughout the Quaternary deglaciation</a></p>
 <p>DD/MM/2025</p>
-<p>Tromsø Museum (UiT)</p>
+<p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -58,7 +58,7 @@ His research interests are steep skiing and tasty cheese.</p>
 <p>Tuluğ G. Ataman</p>
 <p><a href="">Thesis title</a></p>
 <p>../../2025</p>
-<p>Tromsø Museum (UiT)</p>
+<p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -75,7 +75,7 @@ His research interests are steep skiing and tasty cheese.</p>
 <p>Scarlett Zetter</p>
 <p><a href="">Thesis title</a></p>
 <p>../../2025</p>
-<p>Tromsø Museum (UiT)</p>
+<p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -92,7 +92,7 @@ His research interests are steep skiing and tasty cheese.</p>
 <p>Lucas D. Elliott</p>
 <p><a href="https://munin.uit.no/handle/10037/35339">Unlocking the potential of ancient sedimentary DNA — Approaches to reconstructing past vegetation assemblages</a></p>
 <p>15/11/2024</p>
-<p>Tromsø Museum (UiT)</p>
+<p><a href="https://uit.no/research/arcecogen">Tromsø Museum, UiT The Arctic University of Norway</a></p>
 <p>Tromsø, Norway</p>
 </div>
 </div>
@@ -111,17 +111,18 @@ His research interests are steep skiing and tasty cheese.</p>
 <div class="square"><a href="PROFILE.URL" target="_blank"><img src="https://i1.rgstatic.net/ii/profile.image/11431281235912675-1712857075820_Q128/Izabella-Baisheva.jpg" alt="Avatar" /></a></div>
 <p>Izabella A. Baisheva</p>
 <p><a href="https://www.researchgate.net/publication/389547161_Past_and_present_environmental_conditions_in_Yakutia_-_a_palaeoecological_study_using_lake_sediments">Past and present environmental conditions in Yakutia — a (palaeo)ecological study using lake sediments</a></p>
-<p>10/07/2024</p>
-<p>Helmholtz Centre for Polar and Marine Research (AWI/Potsdam University)</p>
+<p>10/12/2024</p>
+<p><a href="https://www.awi.de/en/">Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research (AWI)</a> and <a href="https://www.uni-potsdam.de/en/university-of-potsdam">University of Potsdam</a></p>
 <p>Potsdam, Germany</p>
 </div>
 </div>
 <div class="section Izabella">
-<p> <a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia.
-Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the Holocene biological history of Lake Satagay, a Siberian thermokarst lake near the Vilyuy (major tributary of River Lena).
-Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire events.
-In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated another thermokarst lake in Yakutia where the sedimentary record reaches 21 ka BP, providing an unprecedented insight on freshwater and vegetation dynamics in the region since the Last Glacial Maximum.
-She is developing a manuscript assessing the environmental and biological status of 66 lakes across southern Yakutia.
+<p> <a href="https://www.researchgate.net/profile/Izabella-Baisheva">Izabella Baisheva</a> successfully defended her Ph.D., which constitutes a major contribution to the limnology of Yakutia by applying <i>sed</i>aDNA metabarcoding of diatoms, macrophytes and terrestrial plants.
+Her <a href="https://doi.org/10.1007/s10933-023-00285-w">first paper</a> reconstructs the sequential formation and biological history of Lake Satagay, a thermokarst lake in Central Yakutia.
+Her <a href="https://doi.org/10.3389/fevo.2022.962906">second paper</a> explores how this lake's surrounding vegetation was affected by wildfire activity during the Holocene.
+In a <a href="https://doi.org/10.3389/feart.2024.1354284">third paper</a>, she investigated an intermontane basin lake in southwestern Yakutia, providing an unprecedented insight on freshwater and vegetation dynamics from the region between Lake Baikal and Central Yakutia, since the Last Glacial Maximum.
+  She is developing a manuscript assessing the environmental and biological status of 66 lakes across Central Yakutia and the Oymyakon Plateau.
 </p>
-<p>Izabella is currently a guest researcher at the Helmholtz Centre for Polar and Marine Research (AWI) in Potsdam.</p>
+<p>Izabella is currently a visiting researcher at the Institute of Tibetan Plateau Research (Chinese Academy of Sciences), and a guest researcher at AWI, Potsdam, Germany.
+<b>She is looking for a postdoctoral position in or around the Netherlands</b>, any recommendations or connections would be well appreciated.</p>
 </div>
