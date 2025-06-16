@@ -1,6 +1,6 @@
 ---
 layout: category
-Title: Newly graduated PhDs
+Title: New PhD graduates
 ---
 
 <div class="section">
